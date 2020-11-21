@@ -1,0 +1,44 @@
+#+TITLE: Minecraft Server
+
+Hi, this is the homepage for my little minecraft server!
+
+It's effectively vanilla (it can be connected to with vanilla clients
+just fine), but if you like I've got a little modpack consisting of
+Litematica and Carpet Mod, plus some optimizations and QoL mods,
+that'll give you a little extra functionality (see [[Mods]] for more
+details).
+
+* To Join
+~mc.pea.sh~ is a whitelisted server just for me and my
+friends/girlfriends, so if you don't know me, you probably can't
+join.
+
+If you do know me and you want to be added to the whitelist, shoot me
+a message on Twitter or Discord. If you know me, you ought to know at
+least one of those (or a different way to contact me).
+
+If you know you have been whitelisted, you can go ahead and download
+the modpack for import into MultiMC [[./files/modpack.zip][here]], which comes with the server
+added to the servers list, or if you'd prefer to connect from a
+vanilla 1.16.4 client, just add ~mc.pea.sh~.
+* Mods
+No links for now, sorry, I'll add those later. For now the important
+thing to know is that they're all either GPL, MIT, or in one case,
+Public Domain.
+** Client Only
+ - Dynamic FPS
+ - LambDynamicLights
+ - Litematica
+ - MaLiLib
+ - Mod Menu
+ - Mouse Wheelie
+ - Roughly Enough Items
+ - Shulker Box Tooltip
+ - Sodium
+** Server Only
+ - Auto Backup
+** Both
+ - Fabric API
+ - Carpet
+ - Lithium
+ - Phosphor
